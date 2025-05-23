@@ -2,7 +2,7 @@
 
 <h1 align="left">Seja bem vindo ao meu Github <h1>
 
-## 🛠️ Tecnologias
+## Tecnologias ##
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
