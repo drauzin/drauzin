@@ -18,14 +18,11 @@
 ## 🚀 Projeto em Destaque
 
 ### 💼 [Freelas Project](https://github.com/drauzin/freelas-project)
-Estou desenvolvendo uma aplicação que no final irá ajudar pessoas a conseguirem encontrar/divulgar serviços freelances na minha cidade
-Em busca de pessoas que queiram contribuir e trazer ideias novas para o projeto.
+Estou desenvolvendo uma aplicação que no final irá ajudar pessoas a conseguirem encontrar/divulgar serviços freelances na minha cidade.
 
-- Cadastro e autenticação de usuários
-- Publicação e busca de serviços
-- Área para freelancers e contratantes
 - Em desenvolvimento...
--Procuro pessoas interessadas em contribuir no projeto .
+- Procuro pessoas interessadas em contribuir no projeto .
+- Mais info , acesse o [README.md](https://github.com/drauzin/Freelas-Project/blob/main/README.md) do projeto.
 ---
 
 ## 📊 GitHub Stats
