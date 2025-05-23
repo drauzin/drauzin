@@ -17,8 +17,9 @@
 
 ## 🚀 Projeto em Destaque
 
-### 💼 [Freelas Project](https://github.com/seuusuario/freelas-project)
-Uma plataforma para conectar clientes e freelancers locais. Desenvolvido com Node.js, Express, MySQL e JWT, com foco em organização, escalabilidade e segurança.
+### 💼 [Freelas Project](https://github.com/drauzin/freelas-project)
+Estou desenvolvendo uma aplicação que no final irá ajudar pessoas a conseguirem encontrar/divulgar serviços freelances na minha cidade
+Em busca de pessoas que queiram contribuir e trazer ideias novas para o projeto.
 
 - Cadastro e autenticação de usuários
 - Publicação e busca de serviços
