@@ -1,8 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Deviruy/29b1e0a0e4d325e56e21e645dbad9975/raw/4684f6f03fca8f4f28f1e275e490b6f2218de296/githubcard.svg"/>
 
-<h1 align="left">Olá ,seja bem vindo ,eu sou Drauzio Dominik <h1>
-Desenvolvedor back-end/Quality Assurance
-
+<h1 align="left">Seja bem vindo ao meu Github <h1>
 ---
 
 ## 🛠️ Tecnologias
