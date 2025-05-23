@@ -37,11 +37,13 @@ Em busca de pessoas que queiram contribuir e trazer ideias novas para o projeto.
 
 ---
 
-## 💡Um pouco sobre mim:
--Apaixonado por desenvolvimento de software (back-end) e qualidade.
--Gosto muito de testar funcionamento de tudo que crio e proucurar melhorias.
--Atualmente estudando bastante Node.js e tambem sobre testes de software(automaçoes de testes)
--Adoro conversar sobre projetos , fique a vontade em me enviar ideias ou colaborar pro projeto Freelas na Cidade.
+## 💡 Um pouco sobre mim
+
+- Apaixonado por desenvolvimento de software (back-end) e qualidade.  
+- Gosto muito de testar o funcionamento de tudo que crio e procurar melhorias.  
+- Atualmente estudando bastante Node.js e também automação de testes.  
+- Adoro conversar sobre projetos — fique à vontade para me enviar ideias ou colaborar com o projeto **Freelas na Cidade**.
+- Amo programar já falei ?  
 
 ---
 ## 📬 Contato
