@@ -36,13 +36,14 @@ Em busca de pessoas que queiram contribuir e trazer ideias novas para o projeto.
 </div>
 
 ---
-💡Um pouco sobre mim:
+
+## 💡Um pouco sobre mim:
 -Apaixonado por desenvolvimento de software (back-end) e qualidade.
 -Gosto muito de testar funcionamento de tudo que crio e proucurar melhorias.
 -Atualmente estudando bastante Node.js e tambem sobre testes de software(automaçoes de testes)
 -Adoro conversar sobre projetos , fique a vontade em me enviar ideias ou colaborar pro projeto Freelas na Cidade.
----
 
+---
 ## 📬 Contato
 
 - 📧 E-mail: ddmb16@gmail.com  
