@@ -1,16 +1,52 @@
-## Hi there 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Deviruy/29b1e0a0e4d325e56e21e645dbad9975/raw/4684f6f03fca8f4f28f1e275e490b6f2218de296/githubcard.svg"/>
 
-<!--
-**drauzin/drauzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Olá 👋, eu sou [SEU NOME]</h1>
 
-Here are some ideas to get you started:
+Sou desenvolvedor backend em formação, com grande interesse por automação de testes e qualidade de software. Estou desenvolvendo o **Freelas Project**, uma plataforma para conectar clientes a freelancers na cidade — e sigo buscando oportunidades nas áreas de **desenvolvimento backend** ou **QA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 💼 [Freelas Project](https://github.com/seuusuario/freelas-project)
+Uma plataforma para conectar clientes e freelancers locais. Desenvolvido com Node.js, Express, MySQL e JWT, com foco em organização, escalabilidade e segurança.
+
+- Cadastro e autenticação de usuários
+- Publicação e busca de serviços
+- Área para freelancers e contratantes
+- Em desenvolvimento...
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+![snake gif](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📬 Contato
+
+- 📧 E-mail: seuemail@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/drauziodominik)
+
