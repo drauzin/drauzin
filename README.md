@@ -34,11 +34,11 @@ Uma plataforma para conectar clientes e freelancers locais. Desenvolvido com Nod
 </div>
 
 ---
-
-## 🐍 Contribuições
-
-![snake gif](https://github.com/drauzin/drauzin/blob/output/github-contribution-grid-snake.svg)
-
+💡Um pouco sobre mim:
+Apaixonado por desenvolvimento de software (back-end) e qualidade.
+Gosto muito de testar funcionamento de tudo que crio e proucurar melhorias.
+Atualmente estudando bastante Node.js e tambem sobre testes de software(automaçoes de testes)
+Adoro conversar sobre projetos , fique a vontade em me enviar ideias ou colaborar pro projeto Freelas na Cidade.
 ---
 
 ## 📬 Contato
